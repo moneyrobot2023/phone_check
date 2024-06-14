@@ -45,6 +45,5 @@ pip install soupsieve==2.2.1
 pip install urllib3==1.26.7
 
 
-Скриншоты:
-![alt text](https://github.com/moneyrobot2023/phone_check/blob/main/win10.png)
+
 
