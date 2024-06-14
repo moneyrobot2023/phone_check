@@ -45,8 +45,8 @@ pip install soupsieve==2.2.1
 pip install urllib3==1.26.7
 
 
-
 Скриншоты:
 ![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/win10.png)
 ![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/kali.png)
 ![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/termux.png)
+
