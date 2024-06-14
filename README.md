@@ -46,6 +46,8 @@ pip install requests==2.26.0
 pip install soupsieve==2.2.1
 pip install urllib3==1.26.7
 
+скачать собранный в ехе  https://github.com/moneyrobot2023/phone_check/releases/tag/phone_check
+
 
 
 
